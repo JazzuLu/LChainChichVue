@@ -1,0 +1,79 @@
+{
+  "POPUP445": { "a": "popup", "X": "default", "U": "background-color: rgba(0, 0, 0, 0.5);" },
+  "BUTTON451": { "a": "button", "F": "flash", "C": "0s" },
+  "FORM_ITEM453": { "a": "form_item", "bS": "text", "bQ": 1 },
+  "FORM_ITEM454": { "a": "form_item", "bS": "email", "bQ": 2 },
+  "FORM_ITEM455": { "a": "form_item", "bS": "tel", "bQ": 3 },
+  "FORM450": {
+    "a": "form",
+    "bP": "5f8947cdcf7c1706e949fd8a",
+    "bM": false,
+    "bK": "default",
+    "bJ": "Cảm ơn bạn đã quan tâm!",
+    "bA": true,
+    "by": true,
+    "bx": true
+  },
+  "GROUP446": { "a": "group", "F": "bounceInUp", "C": "0s" },
+  "POPUP477": { "a": "popup", "X": "top_right", "U": "" },
+  "BUTTON479": {
+    "a": "button",
+    "cs": [{ "dw": "SECTION129", "dr": "action", "a": "section" }],
+    "F": "fadeInRight",
+    "C": "0.2s"
+  },
+  "BUTTON481": {
+    "a": "button",
+    "cs": [{ "dw": "SECTION303", "dr": "action", "a": "section" }],
+    "F": "fadeInRight",
+    "C": "0.2s"
+  },
+  "BUTTON483": {
+    "a": "button",
+    "cs": [{ "dw": "SECTION405", "dr": "action", "a": "section" }],
+    "F": "fadeInRight",
+    "C": "0.2s"
+  },
+  "BUTTON485": {
+    "a": "button",
+    "cs": [{ "dw": "SECTION2", "dr": "action", "a": "section" }],
+    "F": "fadeInRight",
+    "C": "0.2s"
+  },
+  "BUTTON487": {
+    "a": "button",
+    "cs": [{ "dw": "SECTION341", "dr": "action", "a": "section" }],
+    "F": "fadeInRight",
+    "C": "0.2s"
+  },
+  "SECTION540": { "a": "section", "aD": true, "aA": "top", "aw": "0px", "aq": "0px" },
+  "SHAPE539": { "a": "shape", "cs": [{ "dw": "POPUP477", "dr": "action", "a": "popup" }] },
+  "BUTTON540": { "a": "button", "cs": [{ "dw": "SECTION544", "dr": "action", "a": "section" }] },
+  "BUTTON541": { "a": "button", "cs": [{ "dw": "SECTION545", "dr": "action", "a": "section" }] },
+  "BUTTON542": { "a": "button", "cs": [{ "dw": "SECTION546", "dr": "action", "a": "section" }] },
+  "BUTTON543": { "a": "button", "cs": [{ "dw": "SECTION543", "dr": "action", "a": "section" }] },
+  "BUTTON545": { "a": "button", "cs": [{ "dw": "SECTION547", "dr": "action", "a": "section" }] },
+  "VIDEO540": {
+    "a": "video",
+    "ci": "https://www.youtube.com/watch?v=B3kF3rjHWwE",
+    "ch": "youtube",
+    "cg": true
+  },
+  "CAROUSEL539": {
+    "a": "carousel",
+    "cN": 2,
+    "cG": "type_abab",
+    "cM": "10px",
+    "cJ": "horizontal",
+    "R": true,
+    "O": 5,
+    "L": "1250px",
+    "I": "250px"
+  },
+  "VIDEO542": {
+    "a": "video",
+    "ci": "https://www.youtube.com/watch?v=B3kF3rjHWwE",
+    "ch": "youtube",
+    "cg": true
+  }
+}
